@@ -4,10 +4,6 @@
 
 The **Pomodoro Timer** is a Python-based terminal application designed to help you improve focus and productivity. It implements the Pomodoro Technique, alternating between work sessions and breaks. The application features a dynamic progress bar and a countdown timer for each session, making it easy to track your progress in real-time.
 
-## Repository
-
-GitHub Repository: [Pomodoro Timer](https://github.com/Aman-Sunesh/Pomodoro-Timer)
-
 ## Prerequisites
 
 Ensure you have the following installed on your system:
